@@ -29,6 +29,7 @@ async function logJSONData() {
   }  
   console.log(names)
 
+  
 }
 
 
